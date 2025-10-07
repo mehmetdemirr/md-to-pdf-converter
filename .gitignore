@@ -1,0 +1,25 @@
+# Ignore Python virtual environment
+venv/
+.env/
+ENV/
+env/
+
+# Ignore input and output folders and their contents
+input/
+output/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# VS Code settings
+.vscode/
