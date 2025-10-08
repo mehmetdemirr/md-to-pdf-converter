@@ -7,6 +7,7 @@ env/
 # Ignore input and output folders and their contents
 input/
 output/
+images/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
